@@ -1,0 +1,5 @@
+=== Enrichment Analysis Summary ===
+Total significant genes: 31 
+Genes with Entrez IDs: 9 
+GO terms found: 358 
+KEGG pathways found: 35 

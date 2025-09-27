@@ -1,0 +1,2 @@
+"gene","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj","sig","regulation","Group","Comparison"
+"ATMIN_1",71.444466153497,-4.49137107085886,0.977504089609039,-4.59473379047981,4.33302080055124e-06,0.0454143910105775,TRUE,"Down","Group2_WT_None_vs_WT_CIM7","WT_CIM7 vs WT_None"
